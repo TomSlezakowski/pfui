@@ -1,0 +1,31 @@
+{
+  "name": "pfui.js",
+  "version": "0.0.1",
+  "description": "A lightweight UI system to sit atop of PIXI",
+  "author": "Tom Slezakowski",
+  "contributors": [],
+  "main": "./src/index.js",
+  "homepage": "http://tomslezakowski.com/",
+  "bugs": "https://github.com/TomSlezakowski/pfui/issues",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomSlezakowski/pfui"
+  },
+  "scripts": {
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "browserify": {
+  }
+}
